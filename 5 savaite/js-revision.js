@@ -1,4 +1,4 @@
-// Bendri kintamieji
+// Bendrieji kintamieji
 let people, arrPeopleWithClass;
 
 
